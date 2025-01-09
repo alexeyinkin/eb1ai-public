@@ -1,1 +1,805 @@
-{"associations":{"eurasian-art-association":{"fields":["art"],"title":"Eurasian Art Association","url":"https://www.eurasianartunion.com"},"gde":{"description":"The GDE program is a global network of highly experienced technology experts, influencers, and thought leaders who have expertise in Google technologies, are active leaders in the space, natural mentors, and contribute to the wider developer and startup ecosystem.","fields":["science"],"title":"Google Developer Experts","url":"https://developers.google.com/community/experts"},"iahd":{"fields":["science"],"title":"International Association of Honored Developers","url":"https://iahd.cc"},"ieee-senior":{"description":"IEEE Senior Members are engineers, scientists, educators, technical executives, or originators in IEEE-designated fields who are in the profession for 10+ years and have 5+ years of significant performance.","fields":["science"],"title":"IEEE Senior Membership","url":"https://www.ieee.org/membership/senior/"},"international-association-of-designers":{"fields":["art"],"title":"International Association of Designers (IAD)","url":"https://www.iaod.net"},"recording-academy":{"fields":["art"],"title":"Recording Academy","url":"https://www.recordingacademy.com"}},"awards":{"365-aiga-year-in-design":{"fields":["art"],"title":"365: AIGA Year in Design","url":"https://www.aiga.org/competitions-initiatives/365-aiga-year-in-design"},"a-design-iron":{"fields":["art"],"title":"A' Design Award (Iron)","url":"https://competition.adesignaward.com/awardlevels.html"},"css-sotd":{"fields":["art"],"title":"Site of the Day by CSS Design Awards","url":"https://www.csswinner.com/winners"},"gde":{"description":"The GDE program is a global network of highly experienced technology experts, influencers, and thought leaders who have expertise in Google technologies, are active leaders in the space, natural mentors, and contribute to the wider developer and startup ecosystem.","fields":["science"],"title":"Google Developer Expert","url":"https://developers.google.com/community/experts"},"lod-qualification":{"description":"The largest hackathon in Russia and Europe, organized by the Digital Economy program of the Russia.","fields":["science"],"title":"Digital Breakthrough (Qualification)","url":"https://hacks-ai.ru"},"mvp":{"fields":["science"],"title":"Microsoft Most Valuable Professional","url":"https://mvp.microsoft.com"},"nba-tech":{"fields":["science"],"title":"National Business Award \"Technology and Innovation\"","url":"https://nba.melonrich.ru/specproekty/tehno.html"}},"cases":{"eb1a-1":{"name":"Alexey Inkin","field":"science","specialty":"Software Development","url":"https://github.com/alexeyinkin/eb-1a","documents":[{"type":"petition","gotText":true,"criteria":{"awards":[{"id":"gde","years":2023},{"id":"lod-qualification","years":2021}],"associations":[{"id":"gde","years":2023},{"id":"ieee-senior","years":2023}],"judging":[{"id":"ieee-senior","years":2023}],"contributions":[{"years":2023},{"years":2020}],"roles":[{"years":[[2022,2023]]},{"years":[[2022,2023]]},{"years":[[2019,2020]]},{"years":[[2014,2016]]}],"salary":[{"times":2.02,"percentile":50,"years":2023,"country":"ge"}]}},{"type":"approval","date":"2023-12-14"}]},"eb1a-2":{"name":"Razvan Marinescu","field":"science","specialty":"Artificial Intelligence in Medicine","url":"https://razvanmarinescu.github.io/green-card-I-140/","documents":[{"type":"petition","gotText":true,"criteria":{"judging":[{"id":"computer-vision-and-pattern-recognition"},{"id":"neural-information-processing-systems"},{"id":"international-conference-on-machine-learning"},{"id":"medical-image-computing-and-computer-assisted-intervention"},{"id":"information-processing-in-medical-imaging"},{"id":"neuro-image"},{"id":"nature-communications"},{"id":"medical-image-analysis"},{"id":"ieee-transactions-on-pattern-analysis-and-machine-intelligence"},{"id":"journal-of-alzheimers-disease"}],"contributions":[{"years":2019},{"years":2017},{"years":2018},{"years":2017}],"articles":[{"years":2018,"citedBy":121},{"years":2018,"citedBy":101},{"years":2018,"citedBy":69},{"years":2019,"citedBy":37},{"years":2015,"citedBy":33},{"years":2019,"citedBy":30},{"years":2018,"citedBy":23},{"years":2017,"citedBy":14},{"years":2019,"citedBy":13},{"years":2020,"citedBy":10},{"years":2019,"citedBy":9},{"years":2018,"citedBy":7},{"years":2019,"citedBy":6},{"years":2019,"citedBy":5},{"years":2020,"citedBy":2},{"years":2016,"citedBy":2},{"years":2020,"citedBy":1},{"years":2020,"citedBy":1},{"years":2019,"citedBy":1},{"years":2021},{"years":2021},{"years":2021},{"years":2020},{"years":2020},{"years":2020},{"years":2018},{"years":2018},{"years":2017},{"years":2017},{"years":2017},{"years":2017},{"years":2017},{"years":2017},{"years":2014}],"roles":[{"years":[[2019,2020]]},{"years":[[2017,2019]]}]}},{"type":"approval","date":"2021-08-11"}]},"eb1a-3":{"name":"Andrey Markelov","field":"art","specialty":"Product Design and Development","url":"https://www.andrewmarcus.ru/projects/eb1/","documents":[{"type":"petition","gotText":true,"criteria":{"awards":[{"id":"365-aiga-year-in-design","years":2023},{"id":"a-design-iron","years":2023},{"id":"css-sotd","years":2023}],"associations":[{"id":"international-association-of-designers","years":2023},{"id":"eurasian-art-association","years":2023}],"press":[{"years":2012},{"years":2012},{"years":2016},{"years":2018},{"years":2023},{"years":2023},{"years":2023},{"years":2023}],"judging":[{"id":"w3","years":2023},{"id":"davey","years":2023},{"id":"orpetron","years":2023}],"contributions":[{"years":2022}],"articles":[{"years":2023},{"years":2023},{"years":2022},{"years":2022},{"years":2022},{"years":2018},{"years":2018},{"years":2018}],"exhibitions":[{"years":2023},{"years":2023}],"roles":[{"years":[[2016,2020]]},{"years":[[2021,2023]]}],"salary":[{"years":2022,"country":"ru","percentile":50}]}},{"type":"noid","date":"2023-09-22","criteria":{"awards":{"status":"met"},"judging":{"status":"met"},"articles":{"status":"met"},"exhibitions":{"status":"met"},"salary":{"status":"met"}}},{"type":"approval","date":2023}]},"eb1a-4":{"field":"science","specialty":"Software Development","documents":[{"type":"petition","gotText":true,"criteria":{"awards":[{"id":"mvp","years":[2005,2006,2007,2010]}],"contributions":[{"years":[[2019,2022]]}],"roles":[{"years":[[2018,2024]]},{"years":[[2021,2022]]},{"years":[[2016,2017]]},{"years":[[2005,2015]]}],"salary":[{"times":4.381,"percentile":50,"years":2023,"country":"ca"},{"times":1.269,"percentile":90,"years":2021,"country":"ca"}]}},{"type":"rfe","officer":"XM1267","date":"2024-03-19","gotText":true,"criteria":{"roles":{"status":"met"}}},{"type":"response","criteria":{"awards":{"defending":{}},"contributions":{"defending":{}},"salary":{"defending":{}}}},{"type":"denial","officer":"XM1267","date":"2024-05-24","gotText":true,"criteria":{"roles":{"status":"met"},"salary":{"status":"met"}}}]},"eb1a-5":{"field":"science","specialty":"Software Development","documents":[{"type":"petition","gotText":true,"criteria":{"awards":[{"id":"mvp","years":[2005,2006,2007,2010,2024]},{"id":"gde","years":2024}],"associations":[{"id":"gde","years":2024},{"id":"ieee-senior","years":2024}],"judging":[{"id":"ieee-senior","years":2024},{"id":"globee","years":2024}],"contributions":[{"years":[[2019,2022]]}],"roles":[{"years":[[2018,2024]]},{"years":[[2021,2022]]},{"years":[[2016,2017]]},{"years":[[2005,2015]]}],"salary":[{"times":4.381,"percentile":50,"years":2023,"country":"ca"},{"times":1.269,"percentile":90,"years":2021,"country":"ca"}]}},{"type":"rfe","officer":"XM2011","date":"2024-03-19","gotText":true,"criteria":{"judging":{"status":"met"},"salary":{"status":"met"}}}]},"eb1a-6":{"field":"science","specialty":"IT Product Manager","documents":[{"type":"petition","criteria":{"awards":[{"id":"nba-tech","years":2023}],"press":[{}],"judging":[{"id":"runet","years":2023}],"contributions":[{}],"articles":[{}],"roles":[{}],"salary":[{"country":"ru"}]}},{"type":"rfe","gotText":true,"criteria":{"awards":{"status":"met"}}},{"type":"denial","criteria":{"awards":{"status":"met"}}}]},"eb1a-7":{"field":"science","specialty":"IT Product Manager","documents":[{"type":"petition","criteria":{"awards":[{"id":"nba-tech","years":2023}],"press":[{},{},{},{},{}],"judging":[{"id":"runet","years":2023}],"contributions":[{}],"articles":[{},{}],"roles":[{}],"salary":[{"country":"ru"}]}},{"type":"rfe","gotText":true,"criteria":{"awards":{"status":"met"},"judging":{"status":"met"}}}]},"eb1a-8":{"field":"science","documents":[{"type":"petition","criteria":{"associations":[{"id":"iahd"},{"id":"ieee-senior"}],"press":[{"years":2024},{"years":2024},{"years":2022},{"years":2022},{"years":2022},{"years":2022},{"years":2021}],"judging":[{"id":"paper-review"}],"articles":[{}],"roles":[{}],"salary":[{"country":"gb"}]}},{"type":"rfe","officer":318,"criteria":{"judging":{"status":"met"},"articles":{"status":"met"}}},{"type":"response","criteria":{"associations":{"defending":{}},"press":{"defending":{}},"roles":{"defending":{}},"salary":{"defending":{}}}},{"type":"approval","date":"2024-12-27"}]},"eb1a-9":{"field":"art","documents":[{"type":"petition","criteria":{"associations":[{"id":"recording-academy"}],"press":[{}],"judging":[{"id":"grammy"},{"id":"gnesin"},{"id":"babushkin"}],"contributions":[{}],"articles":[{}],"exhibitions":[{}],"roles":[{}]}},{"type":"rfe","officer":"XM2115","gotText":true,"criteria":{"judging":{"status":"met"},"exhibitions":{"status":"met"}}},{"type":"denial","criteria":{"judging":{"status":"met"},"exhibitions":{"status":"met"}}}]},"eb1a-11":{"field":"science","documents":[{"type":"petition","criteria":{"press":[{}],"judging":[{"id":"paper-review"}],"articles":[{"years":2021,"citedBy":51},{"years":2023,"citedBy":50},{"years":2023,"citedBy":50},{"years":2023,"citedBy":49},{"years":2024,"citedBy":44},{"years":2024,"citedBy":33},{"years":2024,"citedBy":33},{"years":2024,"citedBy":33},{"years":2023,"citedBy":28},{"years":2022,"citedBy":28},{"years":2023,"citedBy":27},{"years":2022,"citedBy":26},{"years":2021,"citedBy":20},{"years":2022,"citedBy":1},{"years":2024},{"years":2024},{"years":2024},{"years":2024},{"years":2023},{"years":2022},{"years":2022}],"roles":[{}]}},{"type":"rfe","officer":"XM2106","criteria":{"judging":{"status":"met"},"roles":{"status":"met"}}}]}},"judging":{"babushkin":{"fields":["art"],"title":"V. B. Babushkin International Competition of Creative Works by Sound Engineers","url":"https://rmu.org.ru/mezhdunarodnyj-konkurs-tvorcheskih-rabot-studentov-zvukorezhisserov-imeni-v-b-babushkina/"},"computer-vision-and-pattern-recognition":{"fields":["science"],"groups":["paper-review"],"title":"Computer Vision and Pattern Recognition (CVPR)","url":"https://cvpr.thecvf.com"},"davey":{"fields":["art"],"title":"Davey Awards","url":"https://daveyawards.com"},"globee":{"fields":["science"],"title":"Globee Awards","url":"https://globeeawards.com"},"gnesin":{"fields":["art"],"title":"Gnesin Sound Competition","url":"https://gnesin-academy.ru"},"grammy":{"fields":["art"],"title":"GRAMMY Awards","url":"https://www.recordingacademy.com"},"ieee-senior":{"description":"IEEE Senior Members are engineers, scientists, educators, technical executives, or originators in IEEE-designated fields who are in the profession for 10+ years and have 5+ years of significant performance.","fields":["science"],"title":"IEEE Senior Membership","url":"https://www.ieee.org/membership/senior/"},"ieee-transactions-on-pattern-analysis-and-machine-intelligence":{"fields":["science"],"groups":["paper-review"],"title":"IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)","url":"https://www.computer.org/csdl/journal/tp"},"information-processing-in-medical-imaging":{"fields":["science"],"groups":["paper-review"],"title":"Information Processing in Medical Imaging (IPMI)","url":"https://ipmi2023.org"},"international-conference-on-machine-learning":{"fields":["science"],"groups":["paper-review"],"title":"International Conference on Machine Learning (ICML)","url":"https://icml.cc"},"journal-of-alzheimers-disease":{"fields":["science"],"groups":["paper-review"],"title":"Journal of Alzheimer’s Disease (JAD)","url":"https://www.j-alz.com"},"medical-image-analysis":{"fields":["science"],"groups":["paper-review"],"title":"Medical Image Analysis (MedIA)","url":"https://www.journals.elsevier.com/medical-image-analysis"},"medical-image-computing-and-computer-assisted-intervention":{"fields":["science"],"groups":["paper-review"],"title":"Medical Image Computing and Computer Assisted Intervention (MICCAI)","url":"https://miccai.org"},"nature-communications":{"fields":["science"],"groups":["paper-review"],"title":"Nature Communications","url":"https://www.nature.com/ncomms/"},"neural-information-processing-systems":{"fields":["science"],"groups":["paper-review"],"title":"Neural Information Processing Systems (NeurIPS)","url":"https://neurips.cc"},"neuro-image":{"fields":["science"],"groups":["paper-review"],"title":"NeuroImage","url":"http://www.elsevier.com/locate/ynimg"},"orpetron":{"fields":["art"],"title":"Orpetron Awards","url":"https://orpetron.com"},"paper-review":{"fields":["science","art","education","business","athletics"],"description":"Paper review in a peer-reviewed journal or a conference.","title":"Paper Review"},"runet":{"fields":["science"],"title":"Runet Prize","url":"https://premiaruneta.ru"},"w3":{"fields":["art"],"title":"W3 Awards","url":"https://w3award.com"}},"date":"2025-01-09 00:22:04"}
+associations:
+  eurasian-art-association:
+    fields:
+      - 'art'
+    title: 'Eurasian Art Association'
+    url: 'https://www.eurasianartunion.com'
+  gde:
+    description: 'The GDE program is a global network of highly experienced technology experts, influencers, and thought leaders who have expertise in Google technologies, are active leaders in the space, natural mentors, and contribute to the wider developer and startup ecosystem.'
+    fields:
+      - 'science'
+    title: 'Google Developer Experts'
+    url: 'https://developers.google.com/community/experts'
+  iahd:
+    fields:
+      - 'science'
+    title: 'International Association of Honored Developers'
+    url: 'https://iahd.cc'
+  ieee-senior:
+    description: 'IEEE Senior Members are engineers, scientists, educators, technical executives, or originators in IEEE-designated fields who are in the profession for 10+ years and have 5+ years of significant performance.'
+    fields:
+      - 'science'
+    title: 'IEEE Senior Membership'
+    url: 'https://www.ieee.org/membership/senior/'
+  international-association-of-designers:
+    fields:
+      - 'art'
+    title: 'International Association of Designers (IAD)'
+    url: 'https://www.iaod.net'
+  recording-academy:
+    fields:
+      - 'art'
+    title: 'Recording Academy'
+    url: 'https://www.recordingacademy.com'
+awards:
+  365-aiga-year-in-design:
+    fields:
+      - 'art'
+    title: '365: AIGA Year in Design'
+    url: 'https://www.aiga.org/competitions-initiatives/365-aiga-year-in-design'
+  a-design-iron:
+    fields:
+      - 'art'
+    title: "A' Design Award (Iron)"
+    url: 'https://competition.adesignaward.com/awardlevels.html'
+  css-sotd:
+    fields:
+      - 'art'
+    title: 'Site of the Day by CSS Design Awards'
+    url: 'https://www.csswinner.com/winners'
+  gde:
+    description: 'The GDE program is a global network of highly experienced technology experts, influencers, and thought leaders who have expertise in Google technologies, are active leaders in the space, natural mentors, and contribute to the wider developer and startup ecosystem.'
+    fields:
+      - 'science'
+    title: 'Google Developer Expert'
+    url: 'https://developers.google.com/community/experts'
+  lod-qualification:
+    description: 'The largest hackathon in Russia and Europe, organized by the Digital Economy program of the Russia.'
+    fields:
+      - 'science'
+    title: 'Digital Breakthrough (Qualification)'
+    url: 'https://hacks-ai.ru'
+  mvp:
+    fields:
+      - 'science'
+    title: 'Microsoft Most Valuable Professional'
+    url: 'https://mvp.microsoft.com'
+  nba-tech:
+    fields:
+      - 'science'
+    title: 'National Business Award "Technology and Innovation"'
+    url: 'https://nba.melonrich.ru/specproekty/tehno.html'
+cases:
+  eb1a-1:
+    name: 'Alexey Inkin'
+    field: 'science'
+    office: 'texas'
+    specialty: 'Software Development'
+    url: 'https://github.com/alexeyinkin/eb-1a'
+    documents:
+      - type: 'petition'
+        date: '2023-12-05'
+        gotText: true
+        criteria:
+          awards:
+            - id: 'gde'
+              years: 2023
+            - id: 'lod-qualification'
+              years: 2021
+          associations:
+            - id: 'gde'
+              years: 2023
+            - id: 'ieee-senior'
+              years: 2023
+          judging:
+            - id: 'ieee-senior'
+              years: 2023
+          contributions:
+            - years: 2023
+            - years: 2020
+          roles:
+            - years:
+                - - 2022
+                  - 2023
+            - years:
+                - - 2022
+                  - 2023
+            - years:
+                - - 2019
+                  - 2020
+            - years:
+                - - 2014
+                  - 2016
+          salary:
+            - times: 2.02
+              percentile: 50
+              years: 2023
+              country: 'ge'
+      - type: 'approval'
+        date: '2023-12-14'
+  eb1a-2:
+    name: 'Razvan Marinescu'
+    field: 'science'
+    specialty: 'Artificial Intelligence in Medicine'
+    url: 'https://razvanmarinescu.github.io/green-card-I-140/'
+    documents:
+      - type: 'petition'
+        date: '2021-08-04'
+        gotText: true
+        criteria:
+          judging:
+            - id: 'computer-vision-and-pattern-recognition'
+            - id: 'neural-information-processing-systems'
+            - id: 'international-conference-on-machine-learning'
+            - id: 'medical-image-computing-and-computer-assisted-intervention'
+            - id: 'information-processing-in-medical-imaging'
+            - id: 'neuro-image'
+            - id: 'nature-communications'
+            - id: 'medical-image-analysis'
+            - id: 'ieee-transactions-on-pattern-analysis-and-machine-intelligence'
+            - id: 'journal-of-alzheimers-disease'
+          contributions:
+            - years: 2019
+            - years: 2017
+            - years: 2018
+            - years: 2017
+          articles:
+            - years: 2018
+              citedBy: 121
+            - years: 2018
+              citedBy: 101
+            - years: 2018
+              citedBy: 69
+            - years: 2019
+              citedBy: 37
+            - years: 2015
+              citedBy: 33
+            - years: 2019
+              citedBy: 30
+            - years: 2018
+              citedBy: 23
+            - years: 2017
+              citedBy: 14
+            - years: 2019
+              citedBy: 13
+            - years: 2020
+              citedBy: 10
+            - years: 2019
+              citedBy: 9
+            - years: 2018
+              citedBy: 7
+            - years: 2019
+              citedBy: 6
+            - years: 2019
+              citedBy: 5
+            - years: 2020
+              citedBy: 2
+            - years: 2016
+              citedBy: 2
+            - years: 2020
+              citedBy: 1
+            - years: 2020
+              citedBy: 1
+            - years: 2019
+              citedBy: 1
+            - years: 2021
+            - years: 2021
+            - years: 2021
+            - years: 2020
+            - years: 2020
+            - years: 2020
+            - years: 2018
+            - years: 2018
+            - years: 2017
+            - years: 2017
+            - years: 2017
+            - years: 2017
+            - years: 2017
+            - years: 2017
+            - years: 2014
+          roles:
+            - years:
+                - - 2019
+                  - 2020
+            - years:
+                - - 2017
+                  - 2019
+      - type: 'approval'
+        date: '2021-08-11'
+  eb1a-3:
+    name: 'Andrey Markelov'
+    field: 'art'
+    specialty: 'Product Design and Development'
+    url: 'https://www.andrewmarcus.ru/projects/eb1/'
+    documents:
+      - type: 'petition'
+        date: '2023-09-12'
+        gotText: true
+        criteria:
+          awards:
+            - id: '365-aiga-year-in-design'
+              years: 2023
+            - id: 'a-design-iron'
+              years: 2023
+            - id: 'css-sotd'
+              years: 2023
+          associations:
+            - id: 'international-association-of-designers'
+              years: 2023
+            - id: 'eurasian-art-association'
+              years: 2023
+          press:
+            - years: 2012
+            - years: 2012
+            - years: 2016
+            - years: 2018
+            - years: 2023
+            - years: 2023
+            - years: 2023
+            - years: 2023
+          judging:
+            - id: 'w3'
+              years: 2023
+            - id: 'davey'
+              years: 2023
+            - id: 'orpetron'
+              years: 2023
+          contributions:
+            - years: 2022
+          articles:
+            - years: 2023
+            - years: 2023
+            - years: 2022
+            - years: 2022
+            - years: 2022
+            - years: 2018
+            - years: 2018
+            - years: 2018
+          exhibitions:
+            - years: 2023
+            - years: 2023
+          roles:
+            - years:
+                - - 2016
+                  - 2020
+            - years:
+                - - 2021
+                  - 2023
+          salary:
+            - years: 2022
+              country: 'ru'
+              percentile: 50
+      - type: 'noid'
+        date: '2023-09-22'
+        criteria:
+          awards:
+            status: 'met'
+          judging:
+            status: 'met'
+          articles:
+            status: 'met'
+          exhibitions:
+            status: 'met'
+          salary:
+            status: 'met'
+      - type: 'approval'
+        date: 2023
+  eb1a-4:
+    field: 'science'
+    office: 'texas'
+    specialty: 'Software Development'
+    documents:
+      - type: 'petition'
+        date: 2024
+        gotText: true
+        criteria:
+          awards:
+            - id: 'mvp'
+              years:
+                - 2005
+                - 2006
+                - 2007
+                - 2010
+          contributions:
+            - years:
+                - - 2019
+                  - 2022
+          roles:
+            - years:
+                - - 2018
+                  - 2024
+            - years:
+                - - 2021
+                  - 2022
+            - years:
+                - - 2016
+                  - 2017
+            - years:
+                - - 2005
+                  - 2015
+          salary:
+            - times: 4.381
+              percentile: 50
+              years: 2023
+              country: 'ca'
+            - times: 1.269
+              percentile: 90
+              years: 2021
+              country: 'ca'
+      - type: 'rfe'
+        officer: 'XM1267'
+        date: 2024
+        gotText: true
+        criteria:
+          roles:
+            status: 'met'
+      - type: 'response'
+        date: 2024
+        criteria:
+          awards:
+            defending: {}
+          contributions:
+            defending: {}
+          salary:
+            defending: {}
+      - type: 'denial'
+        officer: 'XM1267'
+        date: 2024
+        gotText: true
+        criteria:
+          roles:
+            status: 'met'
+          salary:
+            status: 'met'
+  eb1a-5:
+    field: 'science'
+    office: 'texas'
+    specialty: 'Software Development'
+    documents:
+      - type: 'petition'
+        date: 2024
+        gotText: true
+        criteria:
+          awards:
+            - id: 'mvp'
+              years:
+                - 2005
+                - 2006
+                - 2007
+                - 2010
+                - 2024
+            - id: 'gde'
+              years: 2024
+          associations:
+            - id: 'gde'
+              years: 2024
+            - id: 'ieee-senior'
+              years: 2024
+          judging:
+            - id: 'ieee-senior'
+              years: 2024
+            - id: 'globee'
+              years: 2024
+          contributions:
+            - years:
+                - - 2019
+                  - 2022
+          roles:
+            - years:
+                - - 2018
+                  - 2024
+            - years:
+                - - 2021
+                  - 2022
+            - years:
+                - - 2016
+                  - 2017
+            - years:
+                - - 2005
+                  - 2015
+          salary:
+            - times: 4.381
+              percentile: 50
+              years: 2023
+              country: 'ca'
+            - times: 1.269
+              percentile: 90
+              years: 2021
+              country: 'ca'
+      - type: 'rfe'
+        officer: 'XM2011'
+        date: 2024
+        gotText: true
+        criteria:
+          judging:
+            status: 'met'
+          salary:
+            status: 'met'
+  eb1a-6:
+    field: 'science'
+    specialty: 'IT Product Manager'
+    documents:
+      - type: 'petition'
+        criteria:
+          awards:
+            - id: 'nba-tech'
+              years: 2023
+          press:
+            - {}
+          judging:
+            - id: 'runet'
+              years: 2023
+          contributions:
+            - {}
+          articles:
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'ru'
+      - type: 'rfe'
+        gotText: true
+        criteria:
+          awards:
+            status: 'met'
+      - type: 'denial'
+        criteria:
+          awards:
+            status: 'met'
+  eb1a-7:
+    field: 'science'
+    specialty: 'IT Product Manager'
+    documents:
+      - type: 'petition'
+        criteria:
+          awards:
+            - id: 'nba-tech'
+              years: 2023
+          press:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          judging:
+            - id: 'runet'
+              years: 2023
+          contributions:
+            - {}
+          articles:
+            - {}
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'ru'
+      - type: 'rfe'
+        gotText: true
+        criteria:
+          awards:
+            status: 'met'
+          judging:
+            status: 'met'
+  eb1a-8:
+    field: 'science'
+    office: 'nebraska'
+    documents:
+      - type: 'petition'
+        criteria:
+          associations:
+            - id: 'iahd'
+            - id: 'ieee-senior'
+          press:
+            - years: 2024
+            - years: 2024
+            - years: 2022
+            - years: 2022
+            - years: 2022
+            - years: 2022
+            - years: 2021
+          judging:
+            - id: 'paper-review'
+          articles:
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'gb'
+      - type: 'rfe'
+        date: 2024
+        officer: 318
+        criteria:
+          judging:
+            status: 'met'
+          articles:
+            status: 'met'
+      - type: 'response'
+        date: 2024
+        criteria:
+          associations:
+            defending: {}
+          press:
+            defending: {}
+          roles:
+            defending: {}
+          salary:
+            defending: {}
+      - type: 'approval'
+        date: 2024
+  eb1a-9:
+    field: 'art'
+    office: 'texas'
+    documents:
+      - type: 'petition'
+        criteria:
+          associations:
+            - id: 'recording-academy'
+          press:
+            - {}
+          judging:
+            - id: 'grammy'
+            - id: 'gnesin'
+            - id: 'babushkin'
+          contributions:
+            - {}
+          articles:
+            - {}
+          exhibitions:
+            - {}
+          roles:
+            - {}
+      - type: 'rfe'
+        officer: 'XM2115'
+        gotText: true
+        criteria:
+          judging:
+            status: 'met'
+          exhibitions:
+            status: 'met'
+      - type: 'denial'
+        criteria:
+          judging:
+            status: 'met'
+          exhibitions:
+            status: 'met'
+  eb1a-11:
+    field: 'science'
+    office: 'texas'
+    documents:
+      - type: 'petition'
+        criteria:
+          press:
+            - {}
+          judging:
+            - id: 'paper-review'
+          articles:
+            - years: 2021
+              citedBy: 51
+            - years: 2023
+              citedBy: 50
+            - years: 2023
+              citedBy: 50
+            - years: 2023
+              citedBy: 49
+            - years: 2024
+              citedBy: 44
+            - years: 2024
+              citedBy: 33
+            - years: 2024
+              citedBy: 33
+            - years: 2024
+              citedBy: 33
+            - years: 2023
+              citedBy: 28
+            - years: 2022
+              citedBy: 28
+            - years: 2023
+              citedBy: 27
+            - years: 2022
+              citedBy: 26
+            - years: 2021
+              citedBy: 20
+            - years: 2022
+              citedBy: 1
+            - years: 2024
+            - years: 2024
+            - years: 2024
+            - years: 2024
+            - years: 2023
+            - years: 2022
+            - years: 2022
+          roles:
+            - {}
+      - type: 'rfe'
+        date: 2024
+        officer: 'XM2106'
+        criteria:
+          judging:
+            status: 'met'
+          roles:
+            status: 'met'
+  eb1a-12:
+    field: 'science'
+    office: 'nebraska'
+    specialty: 'Software Development'
+    documents:
+      - type: 'petition'
+        criteria:
+          press:
+            - years: 2023
+            - years: 2022
+            - years: 2023
+          judging:
+            - id: 'globee'
+              years: 2022
+          contributions:
+            - {}
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          roles:
+            - years:
+                - - 2016
+                  - 2019
+            - {}
+          salary:
+            - times: 2.46
+              percentile: 50
+              years: 2020
+              country: 'ru'
+            - times: 2.09
+              percentile: 50
+              years: 2021
+              country: 'ru'
+      - type: 'rfe'
+        date: 2023
+        gotText: true
+        officer: 318
+        criteria:
+          press:
+            status: 'met'
+          judging:
+            status: 'met'
+      - type: 'response'
+        criteria:
+          contributions:
+            defending: {}
+          articles:
+            defending: {}
+          roles:
+            defending: {}
+          salary:
+            defending: {}
+      - type: 'approval'
+        date: 2023
+judging:
+  babushkin:
+    fields:
+      - 'art'
+    title: 'V. B. Babushkin International Competition of Creative Works by Sound Engineers'
+    url: 'https://rmu.org.ru/mezhdunarodnyj-konkurs-tvorcheskih-rabot-studentov-zvukorezhisserov-imeni-v-b-babushkina/'
+  computer-vision-and-pattern-recognition:
+    fields:
+      - 'science'
+    groups:
+      - 'paper-review'
+    title: 'Computer Vision and Pattern Recognition (CVPR)'
+    url: 'https://cvpr.thecvf.com'
+  davey:
+    fields:
+      - 'art'
+    title: 'Davey Awards'
+    url: 'https://daveyawards.com'
+  globee:
+    fields:
+      - 'science'
+    title: 'Globee Awards'
+    url: 'https://globeeawards.com'
+  gnesin:
+    fields:
+      - 'art'
+    title: 'Gnesin Sound Competition'
+    url: 'https://gnesin-academy.ru'
+  grammy:
+    fields:
+      - 'art'
+    title: 'GRAMMY Awards'
+    url: 'https://www.recordingacademy.com'
+  ieee-senior:
+    description: 'IEEE Senior Members are engineers, scientists, educators, technical executives, or originators in IEEE-designated fields who are in the profession for 10+ years and have 5+ years of significant performance.'
+    fields:
+      - 'science'
+    title: 'IEEE Senior Membership'
+    url: 'https://www.ieee.org/membership/senior/'
+  ieee-transactions-on-pattern-analysis-and-machine-intelligence:
+    fields:
+      - 'science'
+    groups:
+      - 'paper-review'
+    title: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)'
+    url: 'https://www.computer.org/csdl/journal/tp'
+  information-processing-in-medical-imaging:
+    fields:
+      - 'science'
+    groups:
+      - 'paper-review'
+    title: 'Information Processing in Medical Imaging (IPMI)'
+    url: 'https://ipmi2023.org'
+  international-conference-on-machine-learning:
+    fields:
+      - 'science'
+    groups:
+      - 'paper-review'
+    title: 'International Conference on Machine Learning (ICML)'
+    url: 'https://icml.cc'
+  journal-of-alzheimers-disease:
+    fields:
+      - 'science'
+    groups:
+      - 'paper-review'
+    title: 'Journal of Alzheimer’s Disease (JAD)'
+    url: 'https://www.j-alz.com'
+  medical-image-analysis:
+    fields:
+      - 'science'
+    groups:
+      - 'paper-review'
+    title: 'Medical Image Analysis (MedIA)'
+    url: 'https://www.journals.elsevier.com/medical-image-analysis'
+  medical-image-computing-and-computer-assisted-intervention:
+    fields:
+      - 'science'
+    groups:
+      - 'paper-review'
+    title: 'Medical Image Computing and Computer Assisted Intervention (MICCAI)'
+    url: 'https://miccai.org'
+  nature-communications:
+    fields:
+      - 'science'
+    groups:
+      - 'paper-review'
+    title: 'Nature Communications'
+    url: 'https://www.nature.com/ncomms/'
+  neural-information-processing-systems:
+    fields:
+      - 'science'
+    groups:
+      - 'paper-review'
+    title: 'Neural Information Processing Systems (NeurIPS)'
+    url: 'https://neurips.cc'
+  neuro-image:
+    fields:
+      - 'science'
+    groups:
+      - 'paper-review'
+    title: 'NeuroImage'
+    url: 'http://www.elsevier.com/locate/ynimg'
+  orpetron:
+    fields:
+      - 'art'
+    title: 'Orpetron Awards'
+    url: 'https://orpetron.com'
+  paper-review:
+    fields:
+      - 'science'
+      - 'art'
+      - 'education'
+      - 'business'
+      - 'athletics'
+    description: 'Paper review in a peer-reviewed journal or a conference.'
+    title: 'Paper Review'
+  runet:
+    fields:
+      - 'science'
+    title: 'Runet Prize'
+    url: 'https://premiaruneta.ru'
+  w3:
+    fields:
+      - 'art'
+    title: 'W3 Awards'
+    url: 'https://w3award.com'
+date: '2025-01-09 21:35:57'
+
