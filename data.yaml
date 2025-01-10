@@ -603,6 +603,9 @@ cases:
       - type: 'rfe'
         date: 2024
         criteria: {}
+      - type: 'denial'
+        date: 2024
+        criteria: {}
   eb1a-11:
     field: 'science'
     office: 'texas'
@@ -1046,5 +1049,5 @@ judging:
       - 'art'
     title: 'W3 Awards'
     url: 'https://w3award.com'
-date: '2025-01-10 01:53:11'
+date: '2025-01-10 02:00:11'
 
