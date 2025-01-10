@@ -577,6 +577,32 @@ cases:
             status: 'met'
           exhibitions:
             status: 'met'
+  eb1a-10:
+    field: 'science'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: 2024
+        criteria:
+          associations:
+            - id: 'ieee-senior'
+              years: 2023
+            - {}
+            - {}
+            - {}
+          press:
+            - {}
+          judging:
+            - {}
+          contributions:
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'ru'
+      - type: 'rfe'
+        date: 2024
+        criteria: {}
   eb1a-11:
     field: 'science'
     office: 'texas'
@@ -829,6 +855,62 @@ cases:
             - {}
       - type: 'approval'
         date: 2024
+  eb1a-16:
+    field: 'science'
+    office: 'texas'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: 2024
+        gotText: true
+        criteria:
+          awards:
+            - {}
+            - {}
+          associations:
+            - {}
+            - {}
+            - {}
+          press:
+            - {}
+            - {}
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          contributions:
+            - {}
+          roles:
+            - {}
+      - type: 'approval'
+        date: 2024
 judging:
   babushkin:
     fields:
@@ -964,5 +1046,5 @@ judging:
       - 'art'
     title: 'W3 Awards'
     url: 'https://w3award.com'
-date: '2025-01-10 00:59:15'
+date: '2025-01-10 01:53:11'
 
