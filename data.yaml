@@ -1,4 +1,9 @@
 associations:
+  apec-engineers:
+    fields:
+      - 'science'
+    title: 'Asia-Pacific Economic Cooperation (APEC) Engineers'
+    url: 'https://apec.org'
   eurasian-art-association:
     fields:
       - 'art'
@@ -31,6 +36,11 @@ associations:
       - 'science'
     title: 'International Project Management Association'
     url: 'https://en.sovnet.ru'
+  nce-ru:
+    fields:
+      - 'science'
+    title: 'National Chamber of Engineers'
+    url: 'https://npirf.ru/national-association-engineers-russian-federation/'
   recording-academy:
     fields:
       - 'art'
@@ -914,6 +924,67 @@ cases:
             - {}
       - type: 'approval'
         date: 2024
+  eb1a-17:
+    field: 'science'
+    office: 'texas'
+    documents:
+      - type: 'petition'
+        criteria:
+          associations:
+            - id: 'nce-ru'
+            - id: 'apec-engineers'
+          judging:
+            - id: 'editorial-board'
+          contributions:
+            - {}
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'ru'
+      - type: 'rfe'
+        officer: 'XM2115'
+        criteria:
+          judging:
+            status: 'met'
+          articles:
+            status: 'met'
+      - type: 'denial'
+        officer: 'XM2115'
+        criteria:
+          judging:
+            status: 'met'
+          articles:
+            status: 'met'
+  eb1a-18:
+    field: 'science'
+    office: 'texas'
+    documents:
+      - type: 'petition'
+        criteria:
+          associations:
+            - id: 'nce-ru'
+            - id: 'apec-engineers'
+          judging:
+            - id: 'editorial-board'
+          contributions:
+            - {}
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'ru'
+      - type: 'approval'
 judging:
   babushkin:
     fields:
@@ -932,6 +1003,8 @@ judging:
       - 'art'
     title: 'Davey Awards'
     url: 'https://daveyawards.com'
+  editorial-board:
+    title: 'Editorial Board of a Peer-Reviewed Journal'
   globee:
     fields:
       - 'science'
@@ -1049,5 +1122,5 @@ judging:
       - 'art'
     title: 'W3 Awards'
     url: 'https://w3award.com'
-date: '2025-01-10 02:00:11'
+date: '2025-01-10 18:28:03'
 
