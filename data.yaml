@@ -26,6 +26,11 @@ associations:
       - 'art'
     title: 'International Association of Designers (IAD)'
     url: 'https://www.iaod.net'
+  international-project-management-association:
+    fields:
+      - 'science'
+    title: 'International Project Management Association'
+    url: 'https://en.sovnet.ru'
   recording-academy:
     fields:
       - 'art'
@@ -53,6 +58,15 @@ awards:
       - 'science'
     title: 'Google Developer Expert'
     url: 'https://developers.google.com/community/experts'
+  golden-hse:
+    title: 'Golden HSE Award'
+    url: 'https://www.hse.ru/en/gold/'
+  hasten-to-do-good:
+    title: 'Hasten To Do Good'
+    url: 'http://www.vedomstva-uniforma.ru/prava/prava_med.html'
+  international-patient-union:
+    title: 'International Patient Union'
+    url: 'https://союзпациентов.рф'
   lod-qualification:
     description: 'The largest hackathon in Russia and Europe, organized by the Digital Economy program of the Russia.'
     fields:
@@ -76,6 +90,7 @@ cases:
     office: 'texas'
     specialty: 'Software Development'
     url: 'https://github.com/alexeyinkin/eb-1a'
+    with: 'moovert'
     documents:
       - type: 'petition'
         date: '2023-12-05'
@@ -675,6 +690,145 @@ cases:
             defending: {}
       - type: 'approval'
         date: 2023
+  eb1a-13:
+    name: 'Konstantin Sedov'
+    field: 'art'
+    specialty: 'Clown Care'
+    url: 'https://www.youtube.com/watch?v=-TemX88Isrk'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: '2024-10-29'
+        criteria:
+          awards:
+            - id: 'hasten-to-do-good'
+              years: 2016
+            - id: 'international-patient-union'
+            - id: 'golden-hse'
+              years: 2009
+          press:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          judging:
+            - {}
+          contributions:
+            - years:
+                - - 2011
+                  - 2023
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          roles:
+            - years:
+                - - 2011
+                  - 2023
+              title: 'Hospital Clowns NGO'
+      - type: 'approval'
+        date: '2024-10-31'
+  eb1a-14:
+    field: 'science'
+    specialty: 'IT Project Management'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: 2024
+        criteria:
+          associations:
+            - id: 'international-project-management-association'
+            - id: 'ieee-senior'
+          press:
+            - {}
+            - {}
+            - {}
+          judging:
+            - id: 'skill-assessment'
+            - {}
+          contributions:
+            - {}
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          roles:
+            - {}
+          salary:
+            - times: 3
+              percentile: 50
+              country: 'ru'
+      - type: 'approval'
+        date: 2024
+  eb1a-15:
+    field: 'business'
+    office: 'texas'
+    specialty: 'Manufacturing'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: 2024
+        criteria:
+          awards:
+            - {}
+            - {}
+          press:
+            - {}
+            - {}
+            - {}
+            - {}
+          judging:
+            - id: 'paper-review'
+            - {}
+            - {}
+          contributions:
+            - {}
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          roles:
+            - {}
+      - type: 'approval'
+        date: 2024
 judging:
   babushkin:
     fields:
@@ -796,10 +950,19 @@ judging:
       - 'science'
     title: 'Runet Prize'
     url: 'https://premiaruneta.ru'
+  skill-assessment:
+    fields:
+      - 'science'
+      - 'art'
+      - 'education'
+      - 'business'
+      - 'athletics'
+    description: 'Hired by a company to assess skills of employees or job candidates.'
+    title: 'Contract for Skill Assessment'
   w3:
     fields:
       - 'art'
     title: 'W3 Awards'
     url: 'https://w3award.com'
-date: '2025-01-09 21:35:57'
+date: '2025-01-10 00:59:15'
 
