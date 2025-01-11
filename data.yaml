@@ -4,6 +4,16 @@ associations:
       - 'science'
     title: 'Asia-Pacific Economic Cooperation (APEC) Engineers'
     url: 'https://apec.org'
+  arvo:
+    fields:
+      - 'science'
+    title: 'Association for Research in Vision and Ophthalmology'
+    url: 'https://arvo.org'
+  aspet:
+    fields:
+      - 'science'
+    title: 'American Society for Pharmacology and Experimental Therapeutics'
+    url: 'https://aspet.org'
   eurasian-art-association:
     fields:
       - 'art'
@@ -36,6 +46,16 @@ associations:
       - 'science'
     title: 'International Project Management Association'
     url: 'https://en.sovnet.ru'
+  ispwp:
+    fields:
+      - 'art'
+    title: 'International Society of Professional Wedding Photographers'
+    url: 'https://ispwp.com'
+  national-union-of-photo-artists-of-ukraine:
+    fields:
+      - 'art'
+    title: 'National Union of Photo Artists of Ukraine'
+    url: 'https://www.facebook.com/photospilka/'
   nce-ru:
     fields:
       - 'science'
@@ -46,6 +66,20 @@ associations:
       - 'art'
     title: 'Recording Academy'
     url: 'https://www.recordingacademy.com'
+  ukrainian-association-of-professional-photographers:
+    fields:
+      - 'art'
+    title: 'Ukrainian Association of Professional Photographers'
+    url: 'https://ukrainianphotographers.com'
+  wada-committee:
+    fields:
+      - 'athletics'
+    title: 'World Anti-Doping Agency, a Committee'
+    url: 'https://wada-ama.org'
+  world-federation:
+    fields:
+      - 'athletics'
+    title: 'World Federation of a Certain Sport'
 awards:
   365-aiga-year-in-design:
     fields:
@@ -57,11 +91,20 @@ awards:
       - 'art'
     title: "A' Design Award (Iron)"
     url: 'https://competition.adesignaward.com/awardlevels.html'
+  continent-champion:
+    fields:
+      - 'athletics'
+    title: 'Continent Champion in a Certain Sport'
   css-sotd:
     fields:
       - 'art'
     title: 'Site of the Day by CSS Design Awards'
     url: 'https://www.csswinner.com/winners'
+  fasie-umnik:
+    fields:
+      - 'science'
+    title: 'UMNIK Prize'
+    url: 'https://fasie.ru/programs/programma-umnik/'
   gde:
     description: 'The GDE program is a global network of highly experienced technology experts, influencers, and thought leaders who have expertise in Google technologies, are active leaders in the space, natural mentors, and contribute to the wider developer and startup ecosystem.'
     fields:
@@ -88,11 +131,34 @@ awards:
       - 'science'
     title: 'Microsoft Most Valuable Professional'
     url: 'https://mvp.microsoft.com'
+  national-champion:
+    fields:
+      - 'athletics'
+    title: 'National Champion in a Certain Sport'
   nba-tech:
     fields:
       - 'science'
     title: 'National Business Award "Technology and Innovation"'
     url: 'https://nba.melonrich.ru/specproekty/tehno.html'
+  prowed-national-year:
+    field:
+      - 'art'
+    title: 'PROWED Top National Photographer of the Year'
+    url: 'https://prowedaward.com'
+  ranh-nobel:
+    fields:
+      - 'science'
+    title: 'Nobel Medal by RANH'
+    url: 'https://rae.ru/ru/awards/nobel.html'
+  world-champion:
+    fields:
+      - 'athletics'
+    title: 'World Champion in a Certain Sport'
+  wppi-silver-distinction:
+    fields:
+      - 'art'
+    title: 'Wedding and Portrait Photographers International (WPPI) Silver'
+    url: 'https://wppiexpo.com'
 cases:
   eb1a-1:
     name: 'Alexey Inkin'
@@ -985,6 +1051,133 @@ cases:
           salary:
             - country: 'ru'
       - type: 'approval'
+  eb1a-19:
+    field: 'science'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: 2024
+        gotText: true
+        criteria:
+          awards:
+            - id: 'fasie-umnik'
+            - id: 'ranh-nobel'
+          associations:
+            - id: 'aspet'
+            - id: 'arvo'
+          press:
+            - {}
+            - {}
+            - {}
+            - {}
+          judging:
+            - id: 'paper-review'
+            - id: 'komissarov-young-scientists'
+          contributions:
+            - {}
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          roles:
+            - {}
+          salary:
+            - {}
+      - type: 'approval'
+        date: 2024
+  eb1a-21:
+    field: 'athletics'
+    specialty: 'Rowing'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        criteria:
+          awards:
+            - id: 'world-champion'
+            - id: 'continent-champion'
+            - id: 'national-champion'
+          associations:
+            - id: 'world-federation'
+            - id: 'wada-committee'
+          press:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          judging:
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'ru'
+      - type: 'approval'
+        date: 2023
 judging:
   babushkin:
     fields:
@@ -1054,6 +1247,11 @@ judging:
       - 'paper-review'
     title: 'Journal of Alzheimer’s Disease (JAD)'
     url: 'https://www.j-alz.com'
+  komissarov-young-scientists:
+    fields:
+      - 'science'
+    title: 'Young Scientists at Komissarov Foundation'
+    url: 'https://komissarov-foundation.ru'
   medical-image-analysis:
     fields:
       - 'science'
@@ -1122,5 +1320,5 @@ judging:
       - 'art'
     title: 'W3 Awards'
     url: 'https://w3award.com'
-date: '2025-01-10 18:28:03'
+date: '2025-01-11 00:46:55'
 
