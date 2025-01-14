@@ -1,9 +1,24 @@
 associations:
+  americans-for-the-arts:
+    fields:
+      - 'art'
+    title: 'Americans for the Arts'
+    url: 'https://americansforthearts.org'
   apec-engineers:
     fields:
       - 'science'
     title: 'Asia-Pacific Economic Cooperation (APEC) Engineers'
     url: 'https://apec.org'
+  artreestr-ru:
+    fields:
+      - 'art'
+    title: 'Russian Art Registry'
+    url: 'http://artreestr.ru'
+  artunion-ru:
+    fields:
+      - 'art'
+    title: 'Artists Trade Union of Russia'
+    url: 'http://artunion.ru'
   arvo:
     fields:
       - 'science'
@@ -51,6 +66,11 @@ associations:
       - 'art'
     title: 'International Society of Professional Wedding Photographers'
     url: 'https://ispwp.com'
+  moomap-ru:
+    fields:
+      - 'business'
+    title: 'Moscow Association of Entrepreneurs'
+    url: 'https://moomap.ru'
   national-union-of-photo-artists-of-ukraine:
     fields:
       - 'art'
@@ -91,6 +111,11 @@ awards:
       - 'art'
     title: "A' Design Award (Iron)"
     url: 'https://competition.adesignaward.com/awardlevels.html'
+  arlekin:
+    fields:
+      - 'art'
+    title: 'Arlekin Award'
+    url: 'http://arlekinspb.ru'
   continent-champion:
     fields:
       - 'athletics'
@@ -100,6 +125,11 @@ awards:
       - 'art'
     title: 'Site of the Day by CSS Design Awards'
     url: 'https://www.csswinner.com/winners'
+  das-md:
+    fields:
+      - 'art'
+    title: 'DAS Awards'
+    url: 'https://libertydesign.md'
   fasie-umnik:
     fields:
       - 'science'
@@ -131,6 +161,12 @@ awards:
       - 'science'
     title: 'Microsoft Most Valuable Professional'
     url: 'https://mvp.microsoft.com'
+  nasb-by-contest:
+    fields:
+      - 'business'
+      - 'science'
+    title: 'A Contest by National Academy of Sciences of Belarus'
+    url: 'https://nasb.gov.by/rus/news/add/20231215/res.pdf'
   national-champion:
     fields:
       - 'athletics'
@@ -426,13 +462,6 @@ cases:
             status: 'met'
       - type: 'response'
         date: 2024
-        criteria:
-          awards:
-            defending: {}
-          contributions:
-            defending: {}
-          salary:
-            defending: {}
       - type: 'denial'
         officer: 'XM1267'
         date: 2024
@@ -606,15 +635,6 @@ cases:
             status: 'met'
       - type: 'response'
         date: 2024
-        criteria:
-          associations:
-            defending: {}
-          press:
-            defending: {}
-          roles:
-            defending: {}
-          salary:
-            defending: {}
       - type: 'approval'
         date: 2024
   eb1a-9:
@@ -784,15 +804,6 @@ cases:
           judging:
             status: 'met'
       - type: 'response'
-        criteria:
-          contributions:
-            defending: {}
-          articles:
-            defending: {}
-          roles:
-            defending: {}
-          salary:
-            defending: {}
       - type: 'approval'
         date: 2023
   eb1a-13:
@@ -1178,6 +1189,279 @@ cases:
             - country: 'ru'
       - type: 'approval'
         date: 2023
+  eb1a-25:
+    field: 'business'
+    office: 'texas'
+    specialty: 'Corporate Director'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: 2020
+        criteria:
+          associations:
+            - {}
+            - {}
+            - {}
+            - {}
+          contributions:
+            - {}
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'ru'
+      - type: 'rfe'
+        criteria: {}
+      - type: 'response'
+      - type: 'denial'
+        criteria: {}
+  eb1a-26:
+    field: 'business'
+    office: 'texas'
+    specialty: 'Corporate Director'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: '2023-10'
+        criteria:
+          associations:
+            - {}
+            - {}
+            - {}
+            - {}
+          contributions:
+            - {}
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'ru'
+      - type: 'rfe'
+        criteria: {}
+      - type: 'response'
+        date: '2024-03'
+      - type: 'approval'
+  eb1a-28:
+    field: 'business'
+    office: 'texas'
+    specialty: 'Banking'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: 2023
+        criteria:
+          awards:
+            - {}
+          associations:
+            - {}
+          press:
+            - {}
+          judging:
+            - {}
+          contributions:
+            - {}
+          roles:
+            - {}
+          salary:
+            - {}
+      - type: 'approval'
+  eb1a-29:
+    field: 'business'
+    specialty: 'Sales in IT'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: 2024
+        criteria:
+          awards:
+            - id: 'nasb-by-contest'
+              years: 2023
+          associations:
+            - id: 'moomap-ru'
+              years: 2022
+            - {}
+          press:
+            - {}
+          judging:
+            - {}
+          articles:
+            - {}
+          roles:
+            - {}
+          salary:
+            - {}
+      - type: 'approval'
+        date: 2024
+  eb1a-31:
+    field: 'art'
+    specialty: 'Interior Design'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        criteria:
+          awards:
+            - id: 'das-md'
+              years: 2022
+            - {}
+          associations:
+            - {}
+          press:
+            - {}
+          exhibitions:
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'md'
+      - type: 'approval'
+        date: 2024
+  eb1a-32:
+    field: 'art'
+    specialty: 'Acting'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        criteria:
+          awards:
+            - id: 'arlekin'
+              years: 2022
+          press:
+            - {}
+          contributions:
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'ru'
+          success:
+            - country: 'ru'
+      - type: 'rfe'
+        criteria: {}
+      - type: 'response'
+        dates: 2023
+      - type: 'approval'
+        dates: 2023
+  eb1a-33:
+    field: 'art'
+    office: 'nebraska'
+    specialty: 'Documentary Direction'
+    with: 'moovert'
+    documents:
+      - type: 'petition'
+        date: '2023-07-31'
+        criteria:
+          press:
+            - {}
+          judging:
+            - {}
+            - {}
+          articles:
+            - years: 2023
+            - years: 2023
+            - years: 2023
+            - years: 2023
+            - years: 2016
+          exhibitions:
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'by'
+      - type: 'approval'
+        date: '2023-08'
+  eb1a-34:
+    field: 'science'
+    office: 'nevada'
+    documents:
+      - type: 'petition'
+        date: '2022-05-31'
+        criteria:
+          press:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          judging:
+            - years: 2018
+            - years: 2019
+          contributions:
+            - {}
+          articles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          exhibitions:
+            - {}
+            - {}
+            - {}
+            - {}
+          roles:
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+            - {}
+          salary:
+            - years:
+                - - 2017
+                  - 2021
+            - country: 'by'
+      - type: 'approval'
+        date: '2022-06'
+  eb1a-35:
+    field: 'art'
+    specialty: 'Painting'
+    documents:
+      - type: 'petition'
+        criteria:
+          awards:
+            - {}
+          associations:
+            - id: 'americans-for-the-arts'
+            - id: 'artreestr-ru'
+            - id: 'eurasian-art-association'
+            - id: 'artunion-ru'
+          press:
+            - years: 2021
+            - {}
+            - {}
+            - {}
+          judging:
+            - id: 'editorial-board'
+          contributions:
+            - years: 2023
+            - years: 2020
+          exhibitions:
+            - {}
+          roles:
+            - {}
+          salary:
+            - country: 'ge'
+          success:
+            - {}
+      - type: 'approval'
+        date: 2024
 judging:
   babushkin:
     fields:
@@ -1320,5 +1604,5 @@ judging:
       - 'art'
     title: 'W3 Awards'
     url: 'https://w3award.com'
-date: '2025-01-11 00:46:55'
+date: '2025-01-14 19:06:45'
 
