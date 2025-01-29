@@ -198,52 +198,33 @@ awards:
 cases:
   eb1a-1:
     name: 'Alexey Inkin'
-    field: 'science'
+    field: 'business'
     office: 'texas'
     specialty: 'Software Development'
     url: 'https://github.com/alexeyinkin/eb-1a'
     with: 'moovert'
     documents:
       - type: 'petition'
-        date: '2023-12-05'
-        gotText: true
+        date: 2024
         criteria:
           awards:
-            - id: 'gde'
-              years: 2023
-            - id: 'lod-qualification'
-              years: 2021
+            - {}
           associations:
-            - id: 'gde'
-              years: 2023
-            - id: 'ieee-senior'
-              years: 2023
+            - {}
+          press:
+            - years: 2024
+            - years: 2024
           judging:
-            - id: 'ieee-senior'
-              years: 2023
+            - {}
           contributions:
-            - years: 2023
-            - years: 2020
+            - {}
           roles:
-            - years:
-                - - 2022
-                  - 2023
-            - years:
-                - - 2022
-                  - 2023
-            - years:
-                - - 2019
-                  - 2020
-            - years:
-                - - 2014
-                  - 2016
+            - {}
           salary:
-            - times: 2.02
-              percentile: 50
-              years: 2023
-              country: 'ge'
+            - {}
       - type: 'approval'
-        date: '2023-12-14'
+        date: 2024
+    speciality: 'Building'
   eb1a-2:
     name: 'Razvan Marinescu'
     field: 'science'
@@ -807,10 +788,8 @@ cases:
       - type: 'approval'
         date: 2023
   eb1a-13:
-    name: 'Konstantin Sedov'
     field: 'art'
     specialty: 'Clown Care'
-    url: 'https://www.youtube.com/watch?v=-TemX88Isrk'
     with: 'moovert'
     documents:
       - type: 'petition'
@@ -1604,5 +1583,5 @@ judging:
       - 'art'
     title: 'W3 Awards'
     url: 'https://w3award.com'
-date: '2025-01-14 19:06:45'
+date: '2025-01-29 13:59:24'
 
